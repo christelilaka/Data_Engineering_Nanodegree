@@ -1,6 +1,6 @@
 # Step 1: Scope the Project and Gather Data
 
-As a final project of the Data Engineering Nanodegree, we will combine what we've leared troughout the program. We will gather data, design data model, create a datawarehouse to store the data then build an ETL pipeline to load the data into tables.
+As a final project of the Data Engineering Nanodegree, we will combine what we've learned throughout the program. We will gather data, design data models, create a data warehouse to store the data then build an ETL pipeline to load the data into tables.
 
 The datasets will be downloaded from the Internet and come in nested JSON format that will be flatten to extract the columns needed for each table.
 These datasets will create a source-of-truth database that will be used to write sport articles and TV shows.
